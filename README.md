@@ -2,7 +2,7 @@
 [![pub package](https://img.shields.io/pub/v/basic_bottom_navigation_view_lego.svg)](https://pub.dartlang.org/packages/basic_bottom_navigation_view_lego)
 
 # basic_bottom_navigation_view_lego
-description here
+basic bottom navigation view lego for lego project.
 
 ##  Installation
 1. open terminal in the lego project root directory, enter the following command for install cli.
@@ -15,6 +15,3 @@ lego create
 ```bash
 lego add basic_bottom_navigation_view_lego
 ```
-
-## Usage
-Usage here

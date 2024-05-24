@@ -1,7 +1,7 @@
 name: basic_bottom_navigation_view_lego
-description: "lego is all you need"
+description: "basic bottom navigation view lego"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/lego
+repository: https://github.com/flutter-lego/basic_bottom_navigation_view_lego
 
 version: 1.0.0
 
